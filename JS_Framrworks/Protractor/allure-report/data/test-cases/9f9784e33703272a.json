@@ -1,0 +1,59 @@
+{
+  "uid" : "9f9784e33703272a",
+  "name" : "it should test valid credentials for application",
+  "fullName" : "istock login page validations.it should test valid credentials for application",
+  "historyId" : "6ca5ce9b4c12bdfac9b23d82568b1c0c",
+  "time" : {
+    "start" : 1536433435057,
+    "stop" : 1536433449339,
+    "duration" : 14282
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "70875d929eb5fd12",
+      "name" : "Screenshot",
+      "source" : "70875d929eb5fd12.png",
+      "type" : "image/png",
+      "size" : 1853462
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testClass",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should test valid credentials for application"
+  }, {
+    "name" : "package",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f9784e33703272a.json",
+  "parameterValues" : [ ]
+}

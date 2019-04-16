@@ -1,0 +1,59 @@
+{
+  "uid" : "f17988784296dc98",
+  "name" : "it should navigate to Vidoe page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Vidoe page",
+  "historyId" : "4d1520b35c836c90e1b148884493e102",
+  "time" : {
+    "start" : 1535651541285,
+    "stop" : 1535651549086,
+    "duration" : 7801
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "75c7ef67305e5d2f",
+      "name" : "Screenshot",
+      "source" : "75c7ef67305e5d2f.png",
+      "type" : "image/png",
+      "size" : 1814492
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Vidoe page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f17988784296dc98.json",
+  "parameterValues" : [ ]
+}

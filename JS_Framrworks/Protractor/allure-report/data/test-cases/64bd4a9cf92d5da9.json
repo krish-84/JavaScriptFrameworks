@@ -1,0 +1,63 @@
+{
+  "uid" : "64bd4a9cf92d5da9",
+  "name" : "it should navigate to Board page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Board page",
+  "historyId" : "18645fd3b22cfc16b150a2ca7f2c14ef",
+  "time" : {
+    "start" : 1535656280251,
+    "stop" : 1535656284830,
+    "duration" : 4579
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(link text, Create Board)",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(link text, Create Board)\n                    at elementArrayFinder.getWebElements.then (/Users/Protractor/node_modules/protractor/built/element.js:814:27)\n                    at ManagedPromise.invokeCallback_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at <anonymous>\n                    at process._tickDomainCallback (internal/process/next_tick.js:228:7)Error\n                    at ElementArrayFinder.applyAction_ (/Users/Protractor/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:58:26)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                From: Task: Run fit(\"it should navigate to Board page\") in control flow\n                    at UserContext.<anonymous> (/Users/Protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/Protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at shutdownTask_.MicroTask (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:53:4)\n                    at addSpecsToSuite (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:3:1)\n                    at Module._compile (module.js:643:30)\n                    at Object.Module._extensions..js (module.js:654:10)\n                    at Module.load (module.js:556:32)\n                    at tryModuleLoad (module.js:499:12)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: No element found using locator: By(link text, Create Board)",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(link text, Create Board)\n                    at elementArrayFinder.getWebElements.then (/Users/Protractor/node_modules/protractor/built/element.js:814:27)\n                    at ManagedPromise.invokeCallback_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at <anonymous>\n                    at process._tickDomainCallback (internal/process/next_tick.js:228:7)Error\n                    at ElementArrayFinder.applyAction_ (/Users/Protractor/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:831:22)\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:58:26)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                From: Task: Run fit(\"it should navigate to Board page\") in control flow\n                    at UserContext.<anonymous> (/Users/Protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/Protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at shutdownTask_.MicroTask (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:53:4)\n                    at addSpecsToSuite (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:3:1)\n                    at Module._compile (module.js:643:30)\n                    at Object.Module._extensions..js (module.js:654:10)\n                    at Module.load (module.js:556:32)\n                    at tryModuleLoad (module.js:499:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2d8590a9cb32ef24",
+      "name" : "Screenshot",
+      "source" : "2d8590a9cb32ef24.png",
+      "type" : "image/png",
+      "size" : 1776151
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Board page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64bd4a9cf92d5da9.json",
+  "parameterValues" : [ ]
+}

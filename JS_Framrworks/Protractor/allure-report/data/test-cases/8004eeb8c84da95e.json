@@ -1,0 +1,59 @@
+{
+  "uid" : "8004eeb8c84da95e",
+  "name" : "it should navigate to Audio page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Audio page",
+  "historyId" : "a8f2d42498d233829804b706dfd1c644",
+  "time" : {
+    "start" : 1535651549086,
+    "stop" : 1535651552616,
+    "duration" : 3530
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9223a23bd2d0f455",
+      "name" : "Screenshot",
+      "source" : "9223a23bd2d0f455.png",
+      "type" : "image/png",
+      "size" : 201043
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Audio page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8004eeb8c84da95e.json",
+  "parameterValues" : [ ]
+}

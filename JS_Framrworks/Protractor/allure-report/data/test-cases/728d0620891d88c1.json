@@ -1,0 +1,207 @@
+{
+  "uid" : "728d0620891d88c1",
+  "name" : "it should navigate to Board page",
+  "fullName" : "navigate to board page.it should navigate to Board page",
+  "historyId" : "58adbe5b87dd660acd24e262bc24d379",
+  "time" : {
+    "start" : 1535662669845,
+    "stop" : 1535662669845,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Board page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "12d36314352158ca",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535662282936,
+        "stop" : 1535662282936,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "80de4010369a85b",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535662221736,
+        "stop" : 1535662221736,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "13990f3f2a5b38da",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535662049498,
+        "stop" : 1535662049498,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9a6b46d7116ec764",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535662030887,
+        "stop" : 1535662030887,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c8949ccb37042d14",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661900447,
+        "stop" : 1535661900458,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "700def74798035bc",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661799331,
+        "stop" : 1535661799345,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "a2d6441c901303e1",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661653315,
+        "stop" : 1535661653328,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "656518b1faf27aa7",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661623840,
+        "stop" : 1535661623841,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6bbecc633dcf0576",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661530493,
+        "stop" : 1535661530505,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "f6aa2b143f4f2e",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661499418,
+        "stop" : 1535661499432,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "ca180fa988b3f18e",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661429071,
+        "stop" : 1535661429083,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "ebf696f2950d8873",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661394802,
+        "stop" : 1535661394817,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "454ab0b054f1dd1f",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661336591,
+        "stop" : 1535661336604,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "3822ba07294f7c26",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661281498,
+        "stop" : 1535661281499,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e373c8e2cec60974",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535661206935,
+        "stop" : 1535661206936,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3e59f106cc1e50b4",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Create new Board' to contain 'Creat new Board'.",
+      "time" : {
+        "start" : 1535660722293,
+        "stop" : 1535660726641,
+        "duration" : 4348
+      }
+    }, {
+      "uid" : "aba111a0cf65ce7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535660704625,
+        "stop" : 1535660709018,
+        "duration" : 4393
+      }
+    }, {
+      "uid" : "11e3f98ace3cb483",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535660253578,
+        "stop" : 1535660258124,
+        "duration" : 4546
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "728d0620891d88c1.json",
+  "parameterValues" : [ ]
+}

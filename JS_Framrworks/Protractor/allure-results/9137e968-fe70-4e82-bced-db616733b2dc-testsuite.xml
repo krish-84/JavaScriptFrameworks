@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1535659566452' stop='1535659570523'>
+    <name>navigate to proper navigation tab</name>
+    <title>navigate to proper navigation tab</title>
+    <test-cases>
+        <test-case start='1535659566454' status='passed' stop='1535659570522'>
+            <name>it should navigate to Board page</name>
+            <title>it should navigate to Board page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d0602d35-2d21-462f-8df5-c34a155fc210-attachment.png' type='image/png' size='1151518'/>
+            </attachments>
+        </test-case>
+        <test-case start='1535659570522' status='pending' stop='1535659570522'>
+            <name>it should navigate to Photos page</name>
+            <title>it should navigate to Photos page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535659570522' status='pending' stop='1535659570522'>
+            <name>it should navigate to Illustrations page</name>
+            <title>it should navigate to Illustrations page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535659570522' status='pending' stop='1535659570522'>
+            <name>it should navigate to Vidoe page</name>
+            <title>it should navigate to Vidoe page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535659570522' status='pending' stop='1535659570522'>
+            <name>it should navigate to Audio page</name>
+            <title>it should navigate to Audio page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535659570522' status='pending' stop='1535659570523'>
+            <name>it should navigate to Pricing page</name>
+            <title>it should navigate to Pricing page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535659570523' status='pending' stop='1535659570523'>
+            <name>it should navigate to Join page</name>
+            <title>it should navigate to Join page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

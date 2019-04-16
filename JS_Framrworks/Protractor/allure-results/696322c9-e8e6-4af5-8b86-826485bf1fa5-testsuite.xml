@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1535649856448' stop='1535649883147'>
+    <name>istock login page validations</name>
+    <title>istock login page validations</title>
+    <test-cases>
+        <test-case start='1535649856449' status='passed' stop='1535649860368'>
+            <name>it should navigate to istock homepage</name>
+            <title>it should navigate to istock homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='83b398cc-96f2-4e95-a5f0-bff098d21d8e-attachment.png' type='image/png' size='2034294'/>
+            </attachments>
+        </test-case>
+        <test-case start='1535649860368' status='passed' stop='1535649869506'>
+            <name>it should test valid credentials for application</name>
+            <title>it should test valid credentials for application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='8ace3b64-7f42-4d38-8bd8-ab95ff957ad9-attachment.png' type='image/png' size='1748144'/>
+            </attachments>
+        </test-case>
+        <test-case start='1535649869506' status='passed' stop='1535649876274'>
+            <name>it should logout the application</name>
+            <title>it should logout the application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2791f88d-7a96-4221-9020-30c2cae36dde-attachment.png' type='image/png' size='1836290'/>
+            </attachments>
+        </test-case>
+        <test-case start='1535649876274' status='passed' stop='1535649883140'>
+            <name>it should test invalid credentials for application</name>
+            <title>it should test invalid credentials for application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='b2c3296a-b5cd-4fdd-8d5e-4341ec98c4c1-attachment.png' type='image/png' size='3320460'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

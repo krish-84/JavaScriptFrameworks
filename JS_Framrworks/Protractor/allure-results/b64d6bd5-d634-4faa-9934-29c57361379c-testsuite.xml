@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1535656644281' stop='1535656655856'>
+    <name>navigate to proper navigation tab</name>
+    <title>navigate to proper navigation tab</title>
+    <test-cases>
+        <test-case start='1535656644282' status='failed' stop='1535656655842'>
+            <name>it should navigate to Board page</name>
+            <title>it should navigate to Board page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='707cdf29-0c36-453f-9c74-2b988fdb7978-attachment.png' type='image/png' size='1776151'/>
+            </attachments>
+            <failure>
+                <message>Failed: No element found using locator: By(css selector, .boards-menu-container > boards-menu > ul:nth-child(2) > a)</message>
+                <stack-trace>NoSuchElementError: No element found using locator: By(css selector, .boards-menu-container > boards-menu > ul:nth-child(2) > a)
+                    at elementArrayFinder.getWebElements.then (/Users/Protractor/node_modules/protractor/built/element.js:814:27)
+                    at ManagedPromise.invokeCallback_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)
+                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)
+                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7
+                    at &lt;anonymous>
+                    at process._tickDomainCallback (internal/process/next_tick.js:228:7)Error
+                    at ElementArrayFinder.applyAction_ (/Users/Protractor/node_modules/protractor/built/element.js:459:27)
+                    at ElementArrayFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:91:29)
+                    at ElementFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:831:22)
+                    at UserContext.&lt;anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:58:26)
+                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25
+                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)
+                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                From: Task: Run fit("it should navigate to Board page") in control flow
+                    at UserContext.&lt;anonymous> (/Users/Protractor/node_modules/jasminewd2/index.js:94:19)
+                    at attempt (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)
+                    at QueueRunner.run (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)
+                    at runNext (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)
+                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13
+                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9
+                    at /Users/Protractor/node_modules/jasminewd2/index.js:64:48
+                    at ControlFlow.emit (/Users/Protractor/node_modules/selenium-webdriver/lib/events.js:62:21)
+                    at ControlFlow.shutdown_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)
+                    at shutdownTask_.MicroTask (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53)
+                From asynchronous test: 
+                Error
+                    at Suite.&lt;anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:53:4)
+                    at addSpecsToSuite (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)
+                    at Env.describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)
+                    at describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)
+                    at Object.&lt;anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:3:1)
+                    at Module._compile (module.js:643:30)
+                    at Object.Module._extensions..js (module.js:654:10)
+                    at Module.load (module.js:556:32)
+                    at tryModuleLoad (module.js:499:12)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535656655842' status='pending' stop='1535656655855'>
+            <name>it should navigate to Photos page</name>
+            <title>it should navigate to Photos page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535656655855' status='pending' stop='1535656655855'>
+            <name>it should navigate to Illustrations page</name>
+            <title>it should navigate to Illustrations page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535656655855' status='pending' stop='1535656655855'>
+            <name>it should navigate to Vidoe page</name>
+            <title>it should navigate to Vidoe page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535656655855' status='pending' stop='1535656655855'>
+            <name>it should navigate to Audio page</name>
+            <title>it should navigate to Audio page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535656655855' status='pending' stop='1535656655855'>
+            <name>it should navigate to Pricing page</name>
+            <title>it should navigate to Pricing page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1535656655855' status='pending' stop='1535656655856'>
+            <name>it should navigate to Join page</name>
+            <title>it should navigate to Join page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

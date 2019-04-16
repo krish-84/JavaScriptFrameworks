@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1535660253578' stop='1535660258124'>
+    <name>navigate to board page</name>
+    <title>navigate to board page</title>
+    <test-cases>
+        <test-case start='1535660253578' status='passed' stop='1535660258124'>
+            <name>it should navigate to Board page</name>
+            <title>it should navigate to Board page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3073a2e2-b7ab-4a07-9e46-513f423b215a-attachment.png' type='image/png' size='1104713'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

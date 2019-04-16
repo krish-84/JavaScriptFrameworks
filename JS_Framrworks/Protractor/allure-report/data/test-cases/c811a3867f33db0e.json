@@ -1,0 +1,45 @@
+{
+  "uid" : "c811a3867f33db0e",
+  "name" : "it should navigate to Illustrations page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Illustrations page",
+  "historyId" : "a7d97f3e3f2aed92f254353044e62d92",
+  "time" : {
+    "start" : 1535658353099,
+    "stop" : 1535658353099,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Illustrations page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c811a3867f33db0e.json",
+  "parameterValues" : [ ]
+}

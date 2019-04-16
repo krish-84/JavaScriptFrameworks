@@ -1,0 +1,111 @@
+{
+  "uid" : "eafa8dc6d3eccc0d",
+  "name" : "it should logout the application",
+  "fullName" : "istock login page validations.it should logout the application",
+  "historyId" : "d5fb1b47652ba889d9c3ce978ac79eb5",
+  "time" : {
+    "start" : 1536433509082,
+    "stop" : 1536433514451,
+    "duration" : 5369
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3efa285390d7487a",
+      "name" : "Screenshot",
+      "source" : "3efa285390d7487a.png",
+      "type" : "image/png",
+      "size" : 1093867
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testClass",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should logout the application"
+  }, {
+    "name" : "package",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81b17e37cb6f5beb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1536433449339,
+        "stop" : 1536433455316,
+        "duration" : 5977
+      }
+    }, {
+      "uid" : "a0fcbed5e169ff18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535650460736,
+        "stop" : 1535650466706,
+        "duration" : 5970
+      }
+    }, {
+      "uid" : "8fb919b345d0926",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535650409934,
+        "stop" : 1535650415862,
+        "duration" : 5928
+      }
+    }, {
+      "uid" : "2f80b9dcfb3e4508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535649869506,
+        "stop" : 1535649876274,
+        "duration" : 6768
+      }
+    }, {
+      "uid" : "142c57bd3b732d7d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .wide-header.right-off-canvas-toggle-menu)",
+      "time" : {
+        "start" : 1535649759391,
+        "stop" : 1535649765247,
+        "duration" : 5856
+      }
+    }, {
+      "uid" : "a7af22228dc98d34",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535649583113,
+        "stop" : 1535649583113,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eafa8dc6d3eccc0d.json",
+  "parameterValues" : [ ]
+}

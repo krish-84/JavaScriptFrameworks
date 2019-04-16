@@ -1,0 +1,63 @@
+{
+  "uid" : "2bcaa051e9d6e1c9",
+  "name" : "it should navigate to Join page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Join page",
+  "historyId" : "fac706797db166774e2f8628454619a5",
+  "time" : {
+    "start" : 1535651744478,
+    "stop" : 1535651750914,
+    "duration" : 6436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Join' to contain 'Jon'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:49:44)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Join' to contain 'Jon'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_homepage_navbar.js:49:44)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "42918f7cd5e8e860",
+      "name" : "Screenshot",
+      "source" : "42918f7cd5e8e860.png",
+      "type" : "image/png",
+      "size" : 1836375
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Join page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bcaa051e9d6e1c9.json",
+  "parameterValues" : [ ]
+}

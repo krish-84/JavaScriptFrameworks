@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1536433495518' stop='1536433521171'>
+    <name>istock login page validations</name>
+    <title>istock login page validations</title>
+    <test-cases>
+        <test-case start='1536433495518' status='passed' stop='1536433499173'>
+            <name>it should navigate to istock homepage</name>
+            <title>it should navigate to istock homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4ad33bc3-6b16-4039-a925-2e5cb777a9ad-attachment.png' type='image/png' size='1093867'/>
+            </attachments>
+        </test-case>
+        <test-case start='1536433499173' status='failed' stop='1536433509082'>
+            <name>it should test valid credentials for application</name>
+            <title>it should test valid credentials for application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d75e88a1-9a62-4226-a779-1fc33d294445-attachment.png' type='image/png' size='1081204'/>
+            </attachments>
+            <failure>
+                <message>Expected true to be false.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:21:38)
+                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25
+                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)
+                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)
+                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1536433509082' status='passed' stop='1536433514451'>
+            <name>it should logout the application</name>
+            <title>it should logout the application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='3b44673a-0388-457f-8244-584caff24172-attachment.png' type='image/png' size='1093867'/>
+            </attachments>
+        </test-case>
+        <test-case start='1536433514451' status='passed' stop='1536433521160'>
+            <name>it should test invalid credentials for application</name>
+            <title>it should test invalid credentials for application</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1bcb543c-06cc-4efa-bd76-192faf331049-attachment.png' type='image/png' size='2242031'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

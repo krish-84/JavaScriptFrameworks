@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1535662025474' stop='1535662030888'>
+    <name>navigate to board page</name>
+    <title>navigate to board page</title>
+    <test-cases>
+        <test-case start='1535662025475' status='passed' stop='1535662030887'>
+            <name>should close the board model box</name>
+            <title>should close the board model box</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='dba9264f-c45f-4c89-b38d-1ac1b1f9c999-attachment.png' type='image/png' size='2034294'/>
+            </attachments>
+        </test-case>
+        <test-case start='1535662030887' status='pending' stop='1535662030887'>
+            <name>it should navigate to Board page</name>
+            <title>it should navigate to Board page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,306 @@
+{
+  "uid" : "5599a12388eb35a0",
+  "name" : "it should navigate to Pricing page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Pricing page",
+  "historyId" : "1e081132a62d186a060103aa57f6ef28",
+  "time" : {
+    "start" : 1535659712709,
+    "stop" : 1535659712709,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Pricing page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "241b3c96f24b2d87",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535659570522,
+        "stop" : 1535659570523,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b924c8ad4697dc3f",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535658353099,
+        "stop" : 1535658353099,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2b4654d722621e5c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535658214456,
+        "stop" : 1535658214456,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c666f3dcf96f5e23",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535657771851,
+        "stop" : 1535657771851,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f1a585b535cd6874",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535657714650,
+        "stop" : 1535657714650,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bad3d83f520cd20",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535657669308,
+        "stop" : 1535657669308,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b432fef6123c76e9",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535657631931,
+        "stop" : 1535657631931,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eada6482452d7efc",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535657415865,
+        "stop" : 1535657415865,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ef08dbbc14f2c6e8",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535657300025,
+        "stop" : 1535657300025,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e438908555b632c9",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535657279896,
+        "stop" : 1535657279896,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f86f21e478dd9892",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535656655855,
+        "stop" : 1535656655855,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "733962087cf7fdd9",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535656284843,
+        "stop" : 1535656284843,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6daf52cf942527f7",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535656175560,
+        "stop" : 1535656175560,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a7364243c6980369",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535656146389,
+        "stop" : 1535656146389,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "888b1c256c0f507c",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535656085811,
+        "stop" : 1535656085811,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ca7d149626a6e9ae",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535653368603,
+        "stop" : 1535653368603,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bd3a3087054f4d4f",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535653197209,
+        "stop" : 1535653197209,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "10ca0a0a2812e0f7",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535652983765,
+        "stop" : 1535652983766,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2321cba196583c6a",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535652859146,
+        "stop" : 1535652859146,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ae984fb8d8974633",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535652810311,
+        "stop" : 1535652810311,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fab579dd03c558b8",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535652790589,
+        "stop" : 1535652790589,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dcd953699b3d008d",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535652773936,
+        "stop" : 1535652773936,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3cb9de01c139d368",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535652758613,
+        "stop" : 1535652758613,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5a14160836ac5eb",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535652650385,
+        "stop" : 1535652650385,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "639e53dfa14e36f6",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535651750914,
+        "stop" : 1535651750914,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "828ac4b99ffea7af",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535651730079,
+        "stop" : 1535651730079,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d2d2b6e11bd60349",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535651552616,
+        "stop" : 1535651557889,
+        "duration" : 5273
+      }
+    }, {
+      "uid" : "bec37894910ad33c",
+      "status" : "failed",
+      "statusDetails" : "Expected 'Save with flexible plans to suit every budget' to contain 'Savexx with flexible'.",
+      "time" : {
+        "start" : 1535650633481,
+        "stop" : 1535650638795,
+        "duration" : 5314
+      }
+    }, {
+      "uid" : "4a1ff48434cc2d2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535650522867,
+        "stop" : 1535650528613,
+        "duration" : 5746
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5599a12388eb35a0.json",
+  "parameterValues" : [ ]
+}

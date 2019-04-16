@@ -1,0 +1,271 @@
+{
+  "uid" : "4f0b2952a0043ba3",
+  "name" : "it should navigate to Board page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Board page",
+  "historyId" : "18645fd3b22cfc16b150a2ca7f2c14ef",
+  "time" : {
+    "start" : 1535659708272,
+    "stop" : 1535659712708,
+    "duration" : 4436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d1baa324a9e29585",
+      "name" : "Screenshot",
+      "source" : "d1baa324a9e29585.png",
+      "type" : "image/png",
+      "size" : 1081221
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Board page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e4f4a5a33734913e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535659566454,
+        "stop" : 1535659570522,
+        "duration" : 4068
+      }
+    }, {
+      "uid" : "6ce25a5fc8916dca",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #open_board > div > boards-menu > ul > li:nth-child(3) > a)",
+      "time" : {
+        "start" : 1535658349152,
+        "stop" : 1535658353098,
+        "duration" : 3946
+      }
+    }, {
+      "uid" : "474ea1dfe4553b27",
+      "status" : "failed",
+      "statusDetails" : "Failed: Cannot read property 'ARROW_DOWN' of undefined",
+      "time" : {
+        "start" : 1535658210886,
+        "stop" : 1535658214455,
+        "duration" : 3569
+      }
+    }, {
+      "uid" : "f66993b4c65ddd76",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #open_board > div > boards-menu > ul > li:nth-child(3) > a)",
+      "time" : {
+        "start" : 1535657767944,
+        "stop" : 1535657771837,
+        "duration" : 3893
+      }
+    }, {
+      "uid" : "13fff9f3737f2207",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, #open_board > div > boards-menu > ul > li:nth-child(3) > a)",
+      "time" : {
+        "start" : 1535657711009,
+        "stop" : 1535657714635,
+        "duration" : 3626
+      }
+    }, {
+      "uid" : "43306f32c3a480e0",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid argument: 'value' must be a string\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535657664577,
+        "stop" : 1535657669308,
+        "duration" : 4731
+      }
+    }, {
+      "uid" : "9e0cae068fcfe56",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid argument: 'value' must be a string\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535657627667,
+        "stop" : 1535657631930,
+        "duration" : 4263
+      }
+    }, {
+      "uid" : "4cf8d5e6d279dc90",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid argument: 'value' must be a string\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535657412267,
+        "stop" : 1535657415865,
+        "duration" : 3598
+      }
+    }, {
+      "uid" : "63b4deeb463ac144",
+      "status" : "failed",
+      "statusDetails" : "Failed: invalid argument: 'value' must be a string\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535657295484,
+        "stop" : 1535657300009,
+        "duration" : 4525
+      }
+    }, {
+      "uid" : "7f0d1499fa4c5f2c",
+      "status" : "failed",
+      "statusDetails" : "Failed: browser.actions(...).mouseMover is not a function",
+      "time" : {
+        "start" : 1535657276323,
+        "stop" : 1535657279896,
+        "duration" : 3573
+      }
+    }, {
+      "uid" : "53c81e007beaab82",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .boards-menu-container > boards-menu > ul:nth-child(2) > a)",
+      "time" : {
+        "start" : 1535656644282,
+        "stop" : 1535656655842,
+        "duration" : 11560
+      }
+    }, {
+      "uid" : "64bd4a9cf92d5da9",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Create Board)",
+      "time" : {
+        "start" : 1535656280251,
+        "stop" : 1535656284830,
+        "duration" : 4579
+      }
+    }, {
+      "uid" : "e543d9f428115068",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Create Board)",
+      "time" : {
+        "start" : 1535656171540,
+        "stop" : 1535656175546,
+        "duration" : 4006
+      }
+    }, {
+      "uid" : "10c0cf8c11089038",
+      "status" : "failed",
+      "statusDetails" : "Failed: menupage is not defined",
+      "time" : {
+        "start" : 1535656142974,
+        "stop" : 1535656146388,
+        "duration" : 3414
+      }
+    }, {
+      "uid" : "b8f02ba6b3fd065c",
+      "status" : "failed",
+      "statusDetails" : "Failed: Cannot read property 'ARROW_DOWN' of undefined",
+      "time" : {
+        "start" : 1535656082154,
+        "stop" : 1535656085810,
+        "duration" : 3656
+      }
+    }, {
+      "uid" : "87c2c643ecf62172",
+      "status" : "failed",
+      "statusDetails" : "Failed: Cannot read property 'ARROW_DOWN' of undefined",
+      "time" : {
+        "start" : 1535653365139,
+        "stop" : 1535653368602,
+        "duration" : 3463
+      }
+    }, {
+      "uid" : "7dd00c23e2a41dd9",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Create Board)",
+      "time" : {
+        "start" : 1535653193467,
+        "stop" : 1535653197193,
+        "duration" : 3726
+      }
+    }, {
+      "uid" : "40febd9584c00192",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(link text, Create Board)",
+      "time" : {
+        "start" : 1535652980153,
+        "stop" : 1535652983765,
+        "duration" : 3612
+      }
+    }, {
+      "uid" : "e6f5f475e337d8f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535652854480,
+        "stop" : 1535652859146,
+        "duration" : 4666
+      }
+    }, {
+      "uid" : "5bdca727f8708dc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535652806812,
+        "stop" : 1535652810310,
+        "duration" : 3498
+      }
+    }, {
+      "uid" : "450651808603634e",
+      "status" : "failed",
+      "statusDetails" : "Failed: Cannot read property 'perform' of undefined",
+      "time" : {
+        "start" : 1535652787129,
+        "stop" : 1535652790589,
+        "duration" : 3460
+      }
+    }, {
+      "uid" : "e1c19ea02358045f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535652770300,
+        "stop" : 1535652773936,
+        "duration" : 3636
+      }
+    }, {
+      "uid" : "e595e5aff377eac5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535652755024,
+        "stop" : 1535652758612,
+        "duration" : 3588
+      }
+    }, {
+      "uid" : "d3bb63c0f3e97ddb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535652646895,
+        "stop" : 1535652650385,
+        "duration" : 3490
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f0b2952a0043ba3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,195 @@
+{
+  "uid" : "500d3bddb0a138dc",
+  "name" : "should close the board model box",
+  "fullName" : "navigate to board page.should close the board model box",
+  "historyId" : "d2c0281889174c48e1193e03364ebd50",
+  "time" : {
+    "start" : 1535662664939,
+    "stop" : 1535662669845,
+    "duration" : 4906
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b382a1168e20906b",
+      "name" : "Screenshot",
+      "source" : "b382a1168e20906b.png",
+      "type" : "image/png",
+      "size" : 1748027
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should close the board model box"
+  }, {
+    "name" : "package",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bcea6821c744bfe4",
+      "status" : "failed",
+      "statusDetails" : "Failed: EC is not defined",
+      "time" : {
+        "start" : 1535662279503,
+        "stop" : 1535662282936,
+        "duration" : 3433
+      }
+    }, {
+      "uid" : "7e83d8af9e965512",
+      "status" : "failed",
+      "statusDetails" : "Failed: EC is not defined",
+      "time" : {
+        "start" : 1535662218284,
+        "stop" : 1535662221736,
+        "duration" : 3452
+      }
+    }, {
+      "uid" : "f6b0b988a3f345de",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true.",
+      "time" : {
+        "start" : 1535662044492,
+        "stop" : 1535662049498,
+        "duration" : 5006
+      }
+    }, {
+      "uid" : "44b104e2fc2586a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535662025475,
+        "stop" : 1535662030887,
+        "duration" : 5412
+      }
+    }, {
+      "uid" : "277f4a1ec9f237e8",
+      "status" : "failed",
+      "statusDetails" : "Expected true to be false.",
+      "time" : {
+        "start" : 1535661895408,
+        "stop" : 1535661900447,
+        "duration" : 5039
+      }
+    }, {
+      "uid" : "e9342d500928d067",
+      "status" : "failed",
+      "statusDetails" : "Expected true to be false.",
+      "time" : {
+        "start" : 1535661794579,
+        "stop" : 1535661799331,
+        "duration" : 4752
+      }
+    }, {
+      "uid" : "63ed2f7bb9c3fdc0",
+      "status" : "failed",
+      "statusDetails" : "Expected true to be false.",
+      "time" : {
+        "start" : 1535661648520,
+        "stop" : 1535661653315,
+        "duration" : 4795
+      }
+    }, {
+      "uid" : "7478605318977d1d",
+      "status" : "failed",
+      "statusDetails" : "Failed: baords is not defined",
+      "time" : {
+        "start" : 1535661619493,
+        "stop" : 1535661623840,
+        "duration" : 4347
+      }
+    }, {
+      "uid" : "d3f51828119dcf7d",
+      "status" : "failed",
+      "statusDetails" : "Failed: element not visible\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535661526073,
+        "stop" : 1535661530493,
+        "duration" : 4420
+      }
+    }, {
+      "uid" : "ab5469251f8a5ed5",
+      "status" : "failed",
+      "statusDetails" : "Failed: element not visible\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535661495062,
+        "stop" : 1535661499418,
+        "duration" : 4356
+      }
+    }, {
+      "uid" : "871ac949c9eadc33",
+      "status" : "failed",
+      "statusDetails" : "Failed: element not visible\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535661424715,
+        "stop" : 1535661429070,
+        "duration" : 4355
+      }
+    }, {
+      "uid" : "ae4ffdc964508b71",
+      "status" : "failed",
+      "statusDetails" : "Failed: element not visible\n                  (Session info: chrome=68.0.3440.106)\n                  (Driver info: chromedriver=2.41.578706 (5f725d1b4f0a4acbf5259df887244095596231db),platform=Mac OS X 10.11.6 x86_64)",
+      "time" : {
+        "start" : 1535661390278,
+        "stop" : 1535661394802,
+        "duration" : 4524
+      }
+    }, {
+      "uid" : "8adc94ebfed65772",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [title=close])",
+      "time" : {
+        "start" : 1535661332209,
+        "stop" : 1535661336591,
+        "duration" : 4382
+      }
+    }, {
+      "uid" : "bb5cffdc6c91c46d",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 5013ms",
+      "time" : {
+        "start" : 1535661272276,
+        "stop" : 1535661281498,
+        "duration" : 9222
+      }
+    }, {
+      "uid" : "5a5c8698e6b10566",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, [title=close)",
+      "time" : {
+        "start" : 1535661202497,
+        "stop" : 1535661206935,
+        "duration" : 4438
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "500d3bddb0a138dc.json",
+  "parameterValues" : [ ]
+}

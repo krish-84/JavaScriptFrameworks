@@ -1,0 +1,128 @@
+{
+  "uid" : "16a6cbdac7062ae4",
+  "name" : "it should test valid credentials for application",
+  "fullName" : "istock login page validations.it should test valid credentials for application",
+  "historyId" : "6ca5ce9b4c12bdfac9b23d82568b1c0c",
+  "time" : {
+    "start" : 1536433499173,
+    "stop" : 1536433509082,
+    "duration" : 9909
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected true to be false.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:21:38)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected true to be false.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:21:38)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "69882becf7df2803",
+      "name" : "Screenshot",
+      "source" : "69882becf7df2803.png",
+      "type" : "image/png",
+      "size" : 1081204
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testClass",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should test valid credentials for application"
+  }, {
+    "name" : "package",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9f9784e33703272a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1536433435057,
+        "stop" : 1536433449339,
+        "duration" : 14282
+      }
+    }, {
+      "uid" : "a874ab89458be223",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535650451472,
+        "stop" : 1535650460736,
+        "duration" : 9264
+      }
+    }, {
+      "uid" : "c511da14d367302d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535650400489,
+        "stop" : 1535650409934,
+        "duration" : 9445
+      }
+    }, {
+      "uid" : "2ba822078aa8c887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535649860368,
+        "stop" : 1535649869506,
+        "duration" : 9138
+      }
+    }, {
+      "uid" : "2516b21d8a6b38cc",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .wide-header.right-off-canvas-toggle-menu)",
+      "time" : {
+        "start" : 1535649752550,
+        "stop" : 1535649759391,
+        "duration" : 6841
+      }
+    }, {
+      "uid" : "93721abe446604e6",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535649583113,
+        "stop" : 1535649583113,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f67f090c77a13a5",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1535649583113,
+        "stop" : 1535649583113,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "16a6cbdac7062ae4.json",
+  "parameterValues" : [ ]
+}

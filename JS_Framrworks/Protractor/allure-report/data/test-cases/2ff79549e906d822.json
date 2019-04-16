@@ -1,0 +1,45 @@
+{
+  "uid" : "2ff79549e906d822",
+  "name" : "it should navigate to Audio page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Audio page",
+  "historyId" : "a8f2d42498d233829804b706dfd1c644",
+  "time" : {
+    "start" : 1535652758613,
+    "stop" : 1535652758613,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Audio page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ff79549e906d822.json",
+  "parameterValues" : [ ]
+}

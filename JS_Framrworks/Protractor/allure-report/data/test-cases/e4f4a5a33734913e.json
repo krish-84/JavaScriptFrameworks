@@ -1,0 +1,59 @@
+{
+  "uid" : "e4f4a5a33734913e",
+  "name" : "it should navigate to Board page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Board page",
+  "historyId" : "18645fd3b22cfc16b150a2ca7f2c14ef",
+  "time" : {
+    "start" : 1535659566454,
+    "stop" : 1535659570522,
+    "duration" : 4068
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ed369a456479321",
+      "name" : "Screenshot",
+      "source" : "8ed369a456479321.png",
+      "type" : "image/png",
+      "size" : 1151518
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Board page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4f4a5a33734913e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid" : "ef9a565f48627fb2",
+  "name" : "it should navigate to istock homepage",
+  "fullName" : "istock login page validations.it should navigate to istock homepage",
+  "historyId" : "c7ddabe2271383661f1975b36ca43692",
+  "time" : {
+    "start" : 1535649856449,
+    "stop" : 1535649860368,
+    "duration" : 3919
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bca98ca5aa6de15e",
+      "name" : "Screenshot",
+      "source" : "bca98ca5aa6de15e.png",
+      "type" : "image/png",
+      "size" : 2034294
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testClass",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to istock homepage"
+  }, {
+    "name" : "package",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef9a565f48627fb2.json",
+  "parameterValues" : [ ]
+}

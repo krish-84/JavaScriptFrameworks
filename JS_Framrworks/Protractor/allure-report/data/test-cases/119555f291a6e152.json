@@ -1,0 +1,45 @@
+{
+  "uid" : "119555f291a6e152",
+  "name" : "it should navigate to Photos page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Photos page",
+  "historyId" : "7fc2a8ef2e7ccda9d7d932ed6ec25590",
+  "time" : {
+    "start" : 1535653368602,
+    "stop" : 1535653368602,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Photos page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "119555f291a6e152.json",
+  "parameterValues" : [ ]
+}

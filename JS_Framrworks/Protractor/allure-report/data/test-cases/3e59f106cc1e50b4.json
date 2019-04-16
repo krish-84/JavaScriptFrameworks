@@ -1,0 +1,63 @@
+{
+  "uid" : "3e59f106cc1e50b4",
+  "name" : "it should navigate to Board page",
+  "fullName" : "navigate to board page.it should navigate to Board page",
+  "historyId" : "58adbe5b87dd660acd24e262bc24d379",
+  "time" : {
+    "start" : 1535660722293,
+    "stop" : 1535660726641,
+    "duration" : 4348
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Create new Board' to contain 'Creat new Board'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_boards.js:20:44)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Create new Board' to contain 'Creat new Board'.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_boards.js:20:44)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6fad99cb80ac7f69",
+      "name" : "Screenshot",
+      "source" : "6fad99cb80ac7f69.png",
+      "type" : "image/png",
+      "size" : 990207
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Board page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e59f106cc1e50b4.json",
+  "parameterValues" : [ ]
+}

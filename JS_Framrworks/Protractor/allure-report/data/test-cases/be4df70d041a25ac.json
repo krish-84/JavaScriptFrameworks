@@ -1,0 +1,59 @@
+{
+  "uid" : "be4df70d041a25ac",
+  "name" : "it should navigate to Photos page",
+  "fullName" : "navigate to proper navigation tab.it should navigate to Photos page",
+  "historyId" : "7fc2a8ef2e7ccda9d7d932ed6ec25590",
+  "time" : {
+    "start" : 1535651531990,
+    "stop" : 1535651537225,
+    "duration" : 5235
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f92929e4619fcd0b",
+      "name" : "Screenshot",
+      "source" : "f92929e4619fcd0b.png",
+      "type" : "image/png",
+      "size" : 2076321
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to Photos page"
+  }, {
+    "name" : "package",
+    "value" : "navigate to proper navigation tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be4df70d041a25ac.json",
+  "parameterValues" : [ ]
+}

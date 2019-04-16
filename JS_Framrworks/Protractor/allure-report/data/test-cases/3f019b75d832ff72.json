@@ -1,0 +1,109 @@
+{
+  "uid" : "3f019b75d832ff72",
+  "name" : "it should navigate to istock homepage",
+  "fullName" : "istock login page validations.it should navigate to istock homepage",
+  "historyId" : "c7ddabe2271383661f1975b36ca43692",
+  "time" : {
+    "start" : 1536433495518,
+    "stop" : 1536433499173,
+    "duration" : 3655
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "948c84499a6a475a",
+      "name" : "Screenshot",
+      "source" : "948c84499a6a475a.png",
+      "type" : "image/png",
+      "size" : 1093867
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testClass",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should navigate to istock homepage"
+  }, {
+    "name" : "package",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c16241bce23b346",
+      "status" : "passed",
+      "time" : {
+        "start" : 1536433429620,
+        "stop" : 1536433435057,
+        "duration" : 5437
+      }
+    }, {
+      "uid" : "d94d22c86bb2c7d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535650447884,
+        "stop" : 1535650451472,
+        "duration" : 3588
+      }
+    }, {
+      "uid" : "3c2eaba673c4e107",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535650396928,
+        "stop" : 1535650400489,
+        "duration" : 3561
+      }
+    }, {
+      "uid" : "ef9a565f48627fb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535649856449,
+        "stop" : 1535649860368,
+        "duration" : 3919
+      }
+    }, {
+      "uid" : "8e3e53bbc4a0c035",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535649748933,
+        "stop" : 1535649752550,
+        "duration" : 3617
+      }
+    }, {
+      "uid" : "9e792ffdb2672a35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1535649578547,
+        "stop" : 1535649583112,
+        "duration" : 4565
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f019b75d832ff72.json",
+  "parameterValues" : [ ]
+}

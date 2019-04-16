@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1535660722293' stop='1535660726641'>
+    <name>navigate to board page</name>
+    <title>navigate to board page</title>
+    <test-cases>
+        <test-case start='1535660722293' status='failed' stop='1535660726641'>
+            <name>it should navigate to Board page</name>
+            <title>it should navigate to Board page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0d946013-f84c-4e11-96eb-457f41969597-attachment.png' type='image/png' size='990207'/>
+            </attachments>
+            <failure>
+                <message>Expected 'Create new Board' to contain 'Creat new Board'.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (/Users/Protractor/test/spec/istock_boards.js:20:44)
+                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25
+                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)
+                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)
+                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)
+                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)
+                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)
+                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)
+                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

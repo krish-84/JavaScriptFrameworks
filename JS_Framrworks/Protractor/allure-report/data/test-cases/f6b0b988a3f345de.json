@@ -1,0 +1,63 @@
+{
+  "uid" : "f6b0b988a3f345de",
+  "name" : "should close the board model box",
+  "fullName" : "navigate to board page.should close the board model box",
+  "historyId" : "d2c0281889174c48e1193e03364ebd50",
+  "time" : {
+    "start" : 1535662044492,
+    "stop" : 1535662049498,
+    "duration" : 5006
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_boards.js:42:49)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected false to be true.",
+    "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_boards.js:42:49)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2974:25)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a6ffc68027d730be",
+      "name" : "Screenshot",
+      "source" : "a6ffc68027d730be.png",
+      "type" : "image/png",
+      "size" : 2034304
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testClass",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should close the board model box"
+  }, {
+    "name" : "package",
+    "value" : "navigate to board page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6b0b988a3f345de.json",
+  "parameterValues" : [ ]
+}

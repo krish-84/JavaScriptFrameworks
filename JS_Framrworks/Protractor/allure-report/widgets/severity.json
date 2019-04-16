@@ -1,0 +1,131 @@
+[ {
+  "uid" : "37927a6dead324ea",
+  "name" : "it should navigate to Illustrations page",
+  "time" : {
+    "start" : 1535659712709,
+    "stop" : 1535659712709,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "500d3bddb0a138dc",
+  "name" : "should close the board model box",
+  "time" : {
+    "start" : 1535662664939,
+    "stop" : 1535662669845,
+    "duration" : 4906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16a6cbdac7062ae4",
+  "name" : "it should test valid credentials for application",
+  "time" : {
+    "start" : 1536433499173,
+    "stop" : 1536433509082,
+    "duration" : 9909
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "728d0620891d88c1",
+  "name" : "it should navigate to Board page",
+  "time" : {
+    "start" : 1535662669845,
+    "stop" : 1535662669845,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "56d34b9d2a464057",
+  "name" : "it should navigate to Join page",
+  "time" : {
+    "start" : 1535659712709,
+    "stop" : 1535659712709,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "bb48b881514e39d3",
+  "name" : "it should navigate to Vidoe page",
+  "time" : {
+    "start" : 1535659712709,
+    "stop" : 1535659712709,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "19b0e9cd6851592b",
+  "name" : "it should navigate to Photos page",
+  "time" : {
+    "start" : 1535659712708,
+    "stop" : 1535659712709,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3f019b75d832ff72",
+  "name" : "it should navigate to istock homepage",
+  "time" : {
+    "start" : 1536433495518,
+    "stop" : 1536433499173,
+    "duration" : 3655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eafa8dc6d3eccc0d",
+  "name" : "it should logout the application",
+  "time" : {
+    "start" : 1536433509082,
+    "stop" : 1536433514451,
+    "duration" : 5369
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f0b2952a0043ba3",
+  "name" : "it should navigate to Board page",
+  "time" : {
+    "start" : 1535659708272,
+    "stop" : 1535659712708,
+    "duration" : 4436
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfb89fc3cdf03b87",
+  "name" : "it should test invalid credentials for application",
+  "time" : {
+    "start" : 1536433514451,
+    "stop" : 1536433521160,
+    "duration" : 6709
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad8190ad5339c7f7",
+  "name" : "it should navigate to Audio page",
+  "time" : {
+    "start" : 1535659712709,
+    "stop" : 1535659712709,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5599a12388eb35a0",
+  "name" : "it should navigate to Pricing page",
+  "time" : {
+    "start" : 1535659712709,
+    "stop" : 1535659712709,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

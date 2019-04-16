@@ -1,0 +1,161 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "it should navigate to Board page",
+    "uid" : "4f0b2952a0043ba3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1535659708272,
+      "stop" : 1535659712708,
+      "duration" : 4436
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to Photos page",
+    "uid" : "19b0e9cd6851592b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1535659712708,
+      "stop" : 1535659712709,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to Illustrations page",
+    "uid" : "37927a6dead324ea",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1535659712709,
+      "stop" : 1535659712709,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to Join page",
+    "uid" : "56d34b9d2a464057",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1535659712709,
+      "stop" : 1535659712709,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to Vidoe page",
+    "uid" : "bb48b881514e39d3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1535659712709,
+      "stop" : 1535659712709,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to Audio page",
+    "uid" : "ad8190ad5339c7f7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1535659712709,
+      "stop" : 1535659712709,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to Pricing page",
+    "uid" : "5599a12388eb35a0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1535659712709,
+      "stop" : 1535659712709,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "should close the board model box",
+    "uid" : "500d3bddb0a138dc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1535662664939,
+      "stop" : 1535662669845,
+      "duration" : 4906
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to Board page",
+    "uid" : "728d0620891d88c1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1535662669845,
+      "stop" : 1535662669845,
+      "duration" : 0
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should navigate to istock homepage",
+    "uid" : "3f019b75d832ff72",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1536433495518,
+      "stop" : 1536433499173,
+      "duration" : 3655
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should test valid credentials for application",
+    "uid" : "16a6cbdac7062ae4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1536433499173,
+      "stop" : 1536433509082,
+      "duration" : 9909
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should logout the application",
+    "uid" : "eafa8dc6d3eccc0d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1536433509082,
+      "stop" : 1536433514451,
+      "duration" : 5369
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "it should test invalid credentials for application",
+    "uid" : "cfb89fc3cdf03b87",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1536433514451,
+      "stop" : 1536433521160,
+      "duration" : 6709
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

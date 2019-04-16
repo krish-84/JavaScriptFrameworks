@@ -1,0 +1,63 @@
+{
+  "uid" : "142c57bd3b732d7d",
+  "name" : "it should logout the application",
+  "fullName" : "istock login page validations.it should logout the application",
+  "historyId" : "d5fb1b47652ba889d9c3ce978ac79eb5",
+  "time" : {
+    "start" : 1535649759391,
+    "stop" : 1535649765247,
+    "duration" : 5856
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(css selector, .wide-header.right-off-canvas-toggle-menu)",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, .wide-header.right-off-canvas-toggle-menu)\n                    at elementArrayFinder.getWebElements.then (/Users/Protractor/node_modules/protractor/built/element.js:814:27)\n                    at ManagedPromise.invokeCallback_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at <anonymous>\n                    at process._tickCallback (internal/process/next_tick.js:188:7)Error\n                    at ElementArrayFinder.applyAction_ (/Users/Protractor/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:831:22)\n                    at Login.appLogout (/Users/Protractor/test/spec/pageObject/istock_login_page.js:22:13)\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:28:24)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                From: Task: Run it(\"it should logout the application\") in control flow\n                    at UserContext.<anonymous> (/Users/Protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/Protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at shutdownTask_.MicroTask (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:26:4)\n                    at addSpecsToSuite (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:4:1)\n                    at Module._compile (module.js:643:30)\n                    at Object.Module._extensions..js (module.js:654:10)\n                    at Module.load (module.js:556:32)\n                    at tryModuleLoad (module.js:499:12)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: No element found using locator: By(css selector, .wide-header.right-off-canvas-toggle-menu)",
+    "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, .wide-header.right-off-canvas-toggle-menu)\n                    at elementArrayFinder.getWebElements.then (/Users/Protractor/node_modules/protractor/built/element.js:814:27)\n                    at ManagedPromise.invokeCallback_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1376:14)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                    at TaskQueue.executeNext_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3067:27)\n                    at asyncRun (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2927:27)\n                    at /Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:668:7\n                    at <anonymous>\n                    at process._tickCallback (internal/process/next_tick.js:188:7)Error\n                    at ElementArrayFinder.applyAction_ (/Users/Protractor/node_modules/protractor/built/element.js:459:27)\n                    at ElementArrayFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:91:29)\n                    at ElementFinder.(anonymous function).args [as click] (/Users/Protractor/node_modules/protractor/built/element.js:831:22)\n                    at Login.appLogout (/Users/Protractor/test/spec/pageObject/istock_login_page.js:22:13)\n                    at UserContext.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:28:24)\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:112:25\n                    at new ManagedPromise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:1077:7)\n                    at ControlFlow.promise (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2505:12)\n                    at schedulerExecute (/Users/Protractor/node_modules/jasminewd2/index.js:95:18)\n                    at TaskQueue.execute_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:3084:14)\n                From: Task: Run it(\"it should logout the application\") in control flow\n                    at UserContext.<anonymous> (/Users/Protractor/node_modules/jasminewd2/index.js:94:19)\n                    at attempt (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4297:26)\n                    at QueueRunner.run (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4217:20)\n                    at runNext (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4257:20)\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4264:13\n                    at /Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4172:9\n                    at /Users/Protractor/node_modules/jasminewd2/index.js:64:48\n                    at ControlFlow.emit (/Users/Protractor/node_modules/selenium-webdriver/lib/events.js:62:21)\n                    at ControlFlow.shutdown_ (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2674:10)\n                    at shutdownTask_.MicroTask (/Users/Protractor/node_modules/selenium-webdriver/lib/promise.js:2599:53)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:26:4)\n                    at addSpecsToSuite (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1107:25)\n                    at Env.describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:1074:7)\n                    at describe (/Users/Protractor/node_modules/jasmine-core/lib/jasmine-core/jasmine.js:4399:18)\n                    at Object.<anonymous> (/Users/Protractor/test/spec/istock_loginPage.js:4:1)\n                    at Module._compile (module.js:643:30)\n                    at Object.Module._extensions..js (module.js:654:10)\n                    at Module.load (module.js:556:32)\n                    at tryModuleLoad (module.js:499:12)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8f98e91bac8d47c5",
+      "name" : "Screenshot",
+      "source" : "8f98e91bac8d47c5.png",
+      "type" : "image/png",
+      "size" : 2034294
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testClass",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "testMethod",
+    "value" : "it should logout the application"
+  }, {
+    "name" : "package",
+    "value" : "istock login page validations"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "142c57bd3b732d7d.json",
+  "parameterValues" : [ ]
+}
